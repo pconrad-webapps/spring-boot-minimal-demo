@@ -177,5 +177,8 @@ With large complex frameworks such as Spring Boot (or Rails, or other "conventio
 * Learn enough about what is going on that you can harness the power and get done what you need to get done, and not get surprised
 * Let go of the need to know *everything* that is going on, because if you insist on that, you likely won't be very productive.   By the time you learn "everything" about the framework, it will have changed, or become obsolete.
 
+# Next step
 
+Next, try this tutorial, which builds on this one by adding support for Freemarker templates:
+* <https://github.com/pconrad-webapps/spring-boot-minimal-freemarker>
 
